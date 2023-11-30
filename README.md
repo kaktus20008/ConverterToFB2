@@ -6,6 +6,7 @@
 
 Надеюсь вам понравится моя программка. Если возникают какие-то ошибки пишите мне на почту vt0550@ya.ru.
 Программа в основном рассчитана на мою предыдущую работу.
+!!!Осторожно после начала программы все названия файлов в папке из пункта 1 станут цифрами.
 
 
 Instruction manual:
@@ -15,3 +16,4 @@ Instruction manual:
 
 I hope you like my program. If there are any errors, please email me vt0550@ya.ru.
 The program is mainly designed for my previous work.
+!!!Carefully, after starting the program, all the names of the files in the folder from point 1 will become numbers.
